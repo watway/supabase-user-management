@@ -1,3 +1,7 @@
+https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs
+https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-user-management
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
